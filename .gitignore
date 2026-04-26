@@ -1,0 +1,7 @@
+node_modules
+dist
+.playwright-cli
+.DS_Store
+*.local
+coverage
+restored-project
